@@ -1,0 +1,391 @@
+[
+  {
+    "title": {
+      "zh": "常微分方程期末试卷（2021—2022 学年）",
+      "en": "ODE Final Examination, 2021–2022"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "year": "2021–2022",
+    "format": "PDF",
+    "sizeBytes": 465176,
+    "sourceFiles": [
+      "《常微分方程》2021-2022学年期末.pdf",
+      "《常微分方程》2021-2022学年期末(1).pdf"
+    ],
+    "path": "past-exams/ode/ode-final-2021-2022.pdf",
+    "sha256": "66d4e4180ee2f032aa84be050fcd2862e99cab7b01d0076107e39b50844ca720"
+  },
+  {
+    "title": {
+      "zh": "常微分方程试卷（2022—2023 学年）",
+      "en": "ODE Examination Paper, 2022–2023"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "year": "2022–2023",
+    "format": "PDF",
+    "sizeBytes": 369807,
+    "sourceFiles": [
+      "《常微分方程》2022-23.pdf",
+      "《常微分方程》2022-23(1).pdf"
+    ],
+    "path": "past-exams/ode/ode-2022-2023.pdf",
+    "sha256": "08b5c15ed5b38ffd5b91bba5e4d846b54ed3526389d2c54c8c93b0775a865f2c"
+  },
+  {
+    "title": {
+      "zh": "常微分方程考试试卷（2024—2025 学年）",
+      "en": "ODE Examination Paper, 2024–2025"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "year": "2024–2025",
+    "format": "PDF",
+    "sizeBytes": 271494,
+    "sourceFiles": [
+      "2024-2025-常微分方程考试试卷.pdf"
+    ],
+    "path": "past-exams/ode/ode-2024-2025.pdf",
+    "sha256": "2e7fdd318e16c88c4aeb1ddab91ff9f0fd54ef0c03535f806a65a7282b28179a"
+  },
+  {
+    "title": {
+      "zh": "常微分方程第三章单元测试",
+      "en": "ODE Chapter 3 Unit Test"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "format": "PDF",
+    "sizeBytes": 125157,
+    "sourceFiles": [
+      "常微分第三章单元测试.pdf"
+    ],
+    "path": "past-exams/ode/ode-chapter-3-test.pdf",
+    "sha256": "20982bdffbf002e91de2520d27cf7620708f8a4a156bb7b589c5e96e97858bc4"
+  },
+  {
+    "title": {
+      "zh": "常微分方程第四章单元测试",
+      "en": "ODE Chapter 4 Unit Test"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "format": "PDF",
+    "sizeBytes": 118249,
+    "sourceFiles": [
+      "常微分第四章单元测试.pdf"
+    ],
+    "path": "past-exams/ode/ode-chapter-4-test.pdf",
+    "sha256": "1b9ffc2fda9128666531e4130a8322a7384a11b0647c48cacce259e72c59418e"
+  },
+  {
+    "title": {
+      "zh": "常微分方程第五章单元测试",
+      "en": "ODE Chapter 5 Unit Test"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "format": "PDF",
+    "sizeBytes": 119698,
+    "sourceFiles": [
+      "常微分第五章单元测试.pdf"
+    ],
+    "path": "past-exams/ode/ode-chapter-5-test.pdf",
+    "sha256": "f59ae61ed9e1ff8981d8045de8d4412ac6a5c39524cc1730e1605b63c854c80c"
+  },
+  {
+    "title": {
+      "zh": "常微分方程 A 卷（2016—2017 学年）",
+      "en": "ODE Examination Paper A, 2016–2017"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "year": "2016–2017",
+    "format": "PDF",
+    "sizeBytes": 148348,
+    "sourceFiles": [
+      "常微分方程16-17A(1).pdf"
+    ],
+    "path": "past-exams/ode/ode-2016-2017-a.pdf",
+    "sha256": "9ed733425f2a039007ac294d2cf36cbe337e834b69101eaf91cd5a0fcb30462e"
+  },
+  {
+    "title": {
+      "zh": "抽象代数往年试卷与答案合集",
+      "en": "Abstract Algebra: Past Papers and Solutions"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "近世代数",
+      "en": "Abstract Algebra"
+    },
+    "format": "ZIP",
+    "description": {
+      "zh": "压缩包内含期中、期末试卷及相应答案。",
+      "en": "An archive of midterm and final papers with corresponding solutions."
+    },
+    "sizeBytes": 1455055,
+    "sourceFiles": [
+      "抽象代数试卷.zip"
+    ],
+    "path": "past-exams/algebra/abstract-algebra-papers.zip",
+    "sha256": "0d157c585895b65be2290ea27afc8c06185174c275a84e7e9f2292399f2d8f3a"
+  },
+  {
+    "title": {
+      "zh": "实变函数试卷及相关资料合集",
+      "en": "Real Analysis: Past Papers and Related Materials"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "实变函数",
+      "en": "Real Analysis"
+    },
+    "format": "ZIP",
+    "description": {
+      "zh": "压缩包内含历年试卷、典型题目和讲义。",
+      "en": "An archive containing past papers, practice problems, and lecture notes."
+    },
+    "sizeBytes": 19290727,
+    "sourceFiles": [
+      "实变试卷.zip"
+    ],
+    "path": "past-exams/real/real-analysis-papers.zip",
+    "sha256": "7e1b9bc71bcade9396644d2fde22fbffe132b73bd3562bdb5cbb10adb5896eab"
+  },
+  {
+    "title": {
+      "zh": "数理统计往年试卷与答案合集",
+      "en": "Mathematical Statistics: Past Papers and Solutions"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "数理统计",
+      "en": "Mathematical Statistics"
+    },
+    "format": "ZIP",
+    "description": {
+      "zh": "压缩包内含多学年试卷，部分试卷附参考答案。",
+      "en": "Papers from multiple academic years; some include reference solutions."
+    },
+    "sizeBytes": 5477254,
+    "sourceFiles": [
+      "数理统计试卷.zip"
+    ],
+    "path": "past-exams/statistics/mathematical-statistics-papers.zip",
+    "sha256": "0dede21e910e06feb84186a4d79e3bc3b43c9f82d955e84263ce22ed2499aef3"
+  },
+  {
+    "title": {
+      "zh": "数学分析（下）往年试题合集",
+      "en": "Mathematical Analysis II: Past Examination Papers"
+    },
+    "category": "past-exams",
+    "subject": {
+      "zh": "数学分析",
+      "en": "Mathematical Analysis"
+    },
+    "format": "RAR",
+    "description": {
+      "zh": "RAR 压缩包，请下载后解压查看。",
+      "en": "RAR archive; download and extract it to view the files."
+    },
+    "sizeBytes": 9343364,
+    "sourceFiles": [
+      "数学分析（下）试题.rar"
+    ],
+    "path": "past-exams/analysis/mathematical-analysis-ii-papers.rar",
+    "sha256": "31d41d2cc43a2f41f28c4c4d64d411254c55b658dcfe74f4d599645b2a20a14d"
+  },
+  {
+    "title": {
+      "zh": "实变函数部分知识点",
+      "en": "Real Analysis: Selected Key Points"
+    },
+    "category": "notes",
+    "subject": {
+      "zh": "实变函数",
+      "en": "Real Analysis"
+    },
+    "format": "PDF",
+    "sizeBytes": 7661402,
+    "sourceFiles": [
+      "实变函数部分知识点.pdf"
+    ],
+    "path": "notes/real/real-analysis-key-points.pdf",
+    "sha256": "a973fc36025a140adb0d6ebd85566683769a04c49906f04fe2991ff3be3f8c12"
+  },
+  {
+    "title": {
+      "zh": "实变函数讲义（原文件标注“自编”）",
+      "en": "Real Analysis Handout"
+    },
+    "category": "notes",
+    "subject": {
+      "zh": "实变函数",
+      "en": "Real Analysis"
+    },
+    "format": "PDF",
+    "sizeBytes": 13929801,
+    "sourceFiles": [
+      "实变函数讲义（自编）.pdf"
+    ],
+    "path": "notes/real/real-analysis-handout.pdf",
+    "sha256": "aec0cf7699a59fd0e31a047df18b7055328847853bfbec017cf0a720c69d0040"
+  },
+  {
+    "title": {
+      "zh": "上下极限及其应用",
+      "en": "Limit Superior, Limit Inferior, and Applications"
+    },
+    "category": "notes",
+    "subject": {
+      "zh": "数学分析",
+      "en": "Mathematical Analysis"
+    },
+    "year": "2023",
+    "format": "PDF",
+    "sizeBytes": 1684429,
+    "sourceFiles": [
+      "数学类.pdf"
+    ],
+    "path": "notes/analysis/limsup-liminf-and-applications.pdf",
+    "sha256": "3559073eb49f2a648ae89e1efb92d8ec254a59216b9f701db56ed56ed47315b1"
+  },
+  {
+    "title": {
+      "zh": "常微分方程辅导及习题精解（王高雄第 3 版配套，张天德）",
+      "en": "ODE Study Guide and Worked Exercises (Companion to Wang Gaoxiong, 3rd ed.; Zhang Tiande)"
+    },
+    "category": "other",
+    "subject": {
+      "zh": "常微分方程",
+      "en": "Ordinary Differential Equations"
+    },
+    "format": "PDF",
+    "sizeBytes": 43510917,
+    "sourceFiles": [
+      "常微分方程辅导及习题精解 王高雄第3版 (张天德) (Z-Library).pdf",
+      "常微分方程辅导及习题精解 王高雄第3版 (张天德) (Z-Library) (1).pdf"
+    ],
+    "path": "other/ode/ode-study-guide-wang-third-edition.pdf",
+    "sha256": "d6754c3f3434b026a140a49a56d4a573e037f50ca894a11d91164cc81f6fbe57"
+  },
+  {
+    "title": {
+      "zh": "复变函数论学习指导书（第五版，钟玉泉）",
+      "en": "Complex Analysis Study Guide (5th ed.; Zhong Yuquan)"
+    },
+    "category": "other",
+    "subject": {
+      "zh": "复变函数",
+      "en": "Complex Analysis"
+    },
+    "format": "PDF",
+    "sizeBytes": 91232451,
+    "sourceFiles": [
+      "复变函数论(第五版)学习指导书 (钟玉泉 编) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+    ],
+    "path": "other/complex/complex-analysis-study-guide-fifth-edition.pdf",
+    "sha256": "2e89716ec31cf8a4a7d91e0138e95982defd474409b62dba0ae1bdb987485c0c"
+  },
+  {
+    "title": {
+      "zh": "概率论基础学习指导书（李贤平、陈子毅）",
+      "en": "Probability Theory Study Guide (Li Xianping and Chen Ziyi)"
+    },
+    "category": "other",
+    "subject": {
+      "zh": "概率论",
+      "en": "Probability Theory"
+    },
+    "format": "PDF",
+    "sizeBytes": 65826895,
+    "sourceFiles": [
+      "概率论基础学习指导书 (李贤平 陈子毅) (Z-Library)-1(2).pdf"
+    ],
+    "path": "other/probability/probability-study-guide-li-chen.pdf",
+    "sha256": "a1254bc7cd3b5e85aa91f829800a0cb61e543d7c59cf55205a4568fbaa0cad11"
+  },
+  {
+    "title": {
+      "zh": "数学分析（第三版·下册，陈纪修等）",
+      "en": "Mathematical Analysis, Volume II (3rd ed.; Chen Jixiu et al.)"
+    },
+    "category": "other",
+    "subject": {
+      "zh": "数学分析",
+      "en": "Mathematical Analysis"
+    },
+    "format": "PDF",
+    "sizeBytes": 54287058,
+    "sourceFiles": [
+      "数学分析 陈纪修 第三版 下 (陈纪修，于崇华，金路) (Z-Library).pdf"
+    ],
+    "path": "other/analysis/mathematical-analysis-ii-third-edition.pdf",
+    "sha256": "cfd81af84fb7c356ee2f6a7708a439ebde16059c320b49fc30d05465fabe0f4d"
+  },
+  {
+    "title": {
+      "zh": "数学分析（第三版·下册，节选）",
+      "en": "Mathematical Analysis, Volume II (3rd ed.; Excerpt)"
+    },
+    "category": "other",
+    "subject": {
+      "zh": "数学分析",
+      "en": "Mathematical Analysis"
+    },
+    "format": "PDF",
+    "description": {
+      "zh": "原文件名标注页码范围为 118—350。",
+      "en": "The original filename indicates a page range of 118–350."
+    },
+    "sizeBytes": 29904531,
+    "sourceFiles": [
+      "数学分析 陈纪修 第三版 下 (陈纪修，于崇华，金路) (Z-Library)-118-350.pdf"
+    ],
+    "path": "other/analysis/mathematical-analysis-ii-excerpt.pdf",
+    "sha256": "fb35d9cbf52e92c836f46615295e79ec49acf543a491d779035df89077cc24fe"
+  },
+  {
+    "title": {
+      "zh": "数学分析题全解指南（第三版·下册）",
+      "en": "Mathematical Analysis: Complete Solutions Guide, Volume II (3rd ed.)"
+    },
+    "category": "other",
+    "subject": {
+      "zh": "数学分析",
+      "en": "Mathematical Analysis"
+    },
+    "format": "PDF",
+    "sizeBytes": 67956647,
+    "sourceFiles": [
+      "数学分析题全解指南 第三版（下册） (陈纪修、徐惠平、_ (Z-Library).pdf",
+      "数学分析题全解指南 第三版（下册） (陈纪修、徐惠平、_ (Z-Library)(1).pdf"
+    ],
+    "path": "other/analysis/mathematical-analysis-ii-solutions-third-edition.pdf",
+    "sha256": "6699f2008af829b8e2f24f9f9c2c76dd87e9807665f4260a65342a3cae016485"
+  }
+]
