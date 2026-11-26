@@ -1,0 +1,8 @@
+# 资料文件按二进制保存，避免换行转换或文本合并改变原始内容。
+*.pdf binary
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.zip binary
+*.rar binary
